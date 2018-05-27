@@ -1,0 +1,9 @@
+{
+  "root": true,
+  "parserOptions": { "parser": "babel-eslint" },
+  "extends": ["airbnb-base", "plugin:prettier/recommended"],
+  "rules": {
+    "prettier/prettier": "error",
+    "no-unused-vars": 0
+  }
+}

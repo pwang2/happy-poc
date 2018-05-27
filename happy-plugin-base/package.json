@@ -1,0 +1,13 @@
+{
+  "name": "happy-plugin-base",
+  "version": "0.1.34",
+  "description": "library contains xe plugin base utils",
+  "main": "index.js",
+  "dependencies": {
+    "boom": "^7.0.0",
+    "glob": "^7.1.2",
+    "uuid": "^3.2.1"
+  },
+  "keywords": [],
+  "license": "UNLICENSED"
+}
