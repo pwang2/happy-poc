@@ -4,7 +4,7 @@ A plugin is npm installable and congurable in app bootstrap phase.
 
 A plugin provides isolation about business logic and expose routes to embodyment business feature.
 
-A plugin should be able to be developed without the presence of the App shell. (I create a tiny xe-cli for this)
+A plugin should be able to be developed without the presence of the App shell.
 
 A plugin will use vue component to render all reusable presentational component and user interactable component(like table). This provides better testability, api, isolation than handlebar partials
 
